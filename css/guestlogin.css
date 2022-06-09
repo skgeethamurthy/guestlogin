@@ -1,0 +1,126 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 1265px;
+    height: 1176px;
+    background-color: #F8FAFF;
+}
+
+.image {
+    /*check*/
+    width: 153px;
+    height: 64px;
+    margin-top: 40px;
+    margin-left: 64px;
+}
+
+.homepage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    margin: 10px;
+}
+
+.leftsection {
+    margin: 278px 114px 279px 86px;
+}
+.rightside {
+    margin-right: 112px;
+    margin-top: 75px;
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+    align-items: center;
+}
+
+h5 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    width: 150px;
+    height: 24px;
+}
+
+.btn1 {
+    width: 256px;
+    background-color: #EFEFFB;
+    border: none;
+    padding: 12px 76px 11px 76px;
+    margin-right: 24px;
+    border-radius: 4px;
+}
+
+.btn2 {
+    width: 256px;
+    font-weight: bold;
+    background-color: #dbe2f5;
+    border: 1px black solid;
+    margin-left: 24px;
+    padding: 8px 94px 8px 94px;
+    text-align: center;
+}
+button.btn2{
+    margin-bottom: 24px;
+}
+
+.form label {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    align-items: center;
+    color: #324B8E;
+    justify-content: center;
+}
+
+.form input {
+    background: #E8EEFF;
+    border-radius: 4px;
+    padding: 16px 390px 16px 16px;
+    border: none;
+    margin: 16px 0 24px 0;
+}
+.form button {
+    background-color: #324B8E;
+    width: 570px;
+    padding-top:12px;
+    padding-bottom:12px;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FBF0F6;
+    border: none;
+    text-align: center;
+}
+
+.formphno{
+    display: flex;
+    width: 449px;
+}
+
+.fomphno.input1{
+    width: 74px;
+    margin-top: 16px;
+    margin-right: 8px;
+    background: #E8EEFF;
+    border-radius: 4px;
+}
+
+.formphno.input2{
+    background: #E8EEFF;
+    border-radius: 4px;
+    padding: 16px 305px 16px 16px;
+    border: none;
+    margin: 16px 106spx 24px 0x;
+    width: 449px;
+}
+
